@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @awesome-generative-ai
-- 👀 I’m interested in [technical strategy and Generative AI🌿](https://www.5loi.com/blog)
-- 🌱 I’m currently learning [LLMs](https://stanford.5loi.com/zh-cn/getting-started/)
-- 💞️ I’m looking to collaborate on [aipm🌿hub](https://roadmaps.feishu.cn/wiki/RykrwFxPiiU4T7kZ63bc7Lqdnch)
-- 📫 How to reach me [About 5Loi🐬](https://www.5loi.com/about_loi)
+- 👋 你好，我是 @awesome-generative-ai 
+- 👀 我对 [深度学习](https://github.com/wuloi) 和 [生成式 AI](https://www.theforage.cn/blog) 感兴趣。
+- 🌱 我目前正在研究 [大型语言模型](https://stanford.5loi.com/zh-cn/getting-started/) 和 [人工智能产品管理](https://www.theforage.cn)。
+- 🐬 我正在探索与 [深度学习和生成式 AI](https://www.5loi.com/academic) 相关的课程。
+- 💞️ 我希望通过 [AIPM🌿hub](https://roadmaps.feishu.cn/wiki/RykrwFxPiiU4T7kZ63bc7Lqdnch) 分享知识。
+- 📫 你可以通过 [5Loi](https://www.5loi.com/about_loi) 联系我。
